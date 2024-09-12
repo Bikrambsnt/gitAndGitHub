@@ -139,4 +139,15 @@ git status
 git add <file name>
 git commit -m "Commit message"
 
-Here we finally resolved our git merge confilct problem
+Here we finally resolved our git merge confilct problem.
+
+###### Rename branch
+    git branch
+  git branch -m <old-brach-name> <new-branch-name>
+example git branch -m <javaScript> <javaScript-DSA>
+
+###### Delete Branch
+
+ git branch -d <branch name>
+ example git branch -d newBranch
+ git branch
