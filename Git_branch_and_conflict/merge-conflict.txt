@@ -1,5 +1,10 @@
 
 
+
   The merge conflict is arrive when we work on same file from both branches.
 
   I have added some notes on the master branch on this file which is totally unknown by python branch
+
+  The merge conflict is arrive when we work on same file from both branches
+  
+
