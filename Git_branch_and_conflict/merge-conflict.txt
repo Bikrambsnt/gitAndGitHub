@@ -1,0 +1,4 @@
+
+
+  The merge conflict is arrive when we work on same file from both branches
+  
