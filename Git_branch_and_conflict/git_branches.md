@@ -59,6 +59,8 @@ example git checkout javaScript
 
 # merging
 
+###### Fast forward Merge
+
 Now when we work on different branch then that branch cannot be accessable by another branch like i am on master branch so I cant access python or javaScript branch so now to grt the access of that branch we have to merge it.
 
 Merging a branch can be done from where the branch need to be merge .
@@ -67,4 +69,6 @@ Merging a branch can be done from where the branch need to be merge .
     git merge <branch name>
 example git merge python [while doing this I am on master branch]
 <!-- This will merge the python branc on master branch-->
+
+###### Non fast forward Merge
 

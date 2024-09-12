@@ -5,3 +5,8 @@
             some more code added
 
 
+        another line of code has been added to fix the above code bugs
+
+    more code has been added
+    
+    code for automation added
