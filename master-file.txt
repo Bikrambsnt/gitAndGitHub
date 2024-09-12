@@ -1,3 +1,4 @@
   This file contains some works done in master branch
 
+  some bugs has been detected so find the solution to fix it
   
