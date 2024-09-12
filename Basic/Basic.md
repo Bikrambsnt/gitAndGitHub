@@ -2,7 +2,7 @@
 
     Git is a software and Github Is a service
 
-# Why we nned Git?
+# Why we need Git?
 
 Git is required to make a checkpoint on a file or a code so that we can go back or do modification even after some time.
 
