@@ -43,3 +43,27 @@ git stash apply stash@{0}
  ###### Clearing the Stash
 
  git stash clear
+
+
+ # Git Tag
+
+ It is like adding a sticky note with commit message.
+
+ ###### cmd
+
+git tag <tag name>
+
+git tag -a <tag name> -m "Release Note"
+
+ <!-- List all the tag -->
+
+ git tag
+
+ <!-- Add tag with commit msg -->
+
+ git tag <tag name> <commit-hash>
+ example - git tag readit 0b6fa21
+
+ <!-- Thats all about tags,diff and stash -->
+
+ 
